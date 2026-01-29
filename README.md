@@ -62,8 +62,8 @@ Day-14/
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd Day-14
+git clone https://github.com/VanshShah174/s3-cloudfront-Terraform.git
+cd s3-cloudfront-Terraform
 
 # Copy example variables
 cp terraform.tfvars.example terraform.tfvars
@@ -209,8 +209,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have questions or need help:
 
 - 📧 Email: your-email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/your-username/your-repo/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/your-username/your-repo/discussions)
+- 🐛 Issues: [GitHub Issues](https://github.com/VanshShah174/s3-cloudfront-Terraform/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/VanshShah174/s3-cloudfront-Terraform/discussions)
 
 ---
 
