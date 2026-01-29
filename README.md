@@ -208,7 +208,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have questions or need help:
 
-- 📧 Email: your-email@example.com
+- 📧 Email: vanshshah174@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/VanshShah174/s3-cloudfront-Terraform/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/VanshShah174/s3-cloudfront-Terraform/discussions)
 

@@ -7,7 +7,7 @@ variable "bucket_name" {
 variable "domain_name" {
   description = "Domain name for the website"
   type        = string
-  default     = "piyush-terraform-demo.com"
+  default     = "xyz.com"
 }
 
 variable "environment" {
